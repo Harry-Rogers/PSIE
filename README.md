@@ -5,7 +5,7 @@
 ![PSIE](./resources/Banner.png)
 
 
-This repository is for the paper **Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation** (). 
+This repository is for the paper **Deep Learning for Precision Agriculture: Post-Spraying Evaluation and Deposition Estimation** (https://arxiv.org/abs/2409.16213). 
 
 This repository contains the dataset curated. This dataset is made up of 176 images of trays that contain lettuce, chickweed, and meadowgrass pre- and post-spraying from a spot spraying system.
 
